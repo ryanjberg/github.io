@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ryan Berg - Author</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            color: #666;
+        }
+
+        section {
+            margin-bottom: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ryan Berg</h1>
+        <p>Author of <em>No House to Call My Home: Love, Family and Other Transgressions</em></p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Ryan Berg is the author of <em>No House to Call My Home: Love, Family and Other Transgressions</em>, winner of the Minnesota Book Award for General Nonfiction. The book also received the NCCD Media for a Just Society Award and was listed as a Top 10 LGBTQ Book of 2016 by the American Library Association.</p>
+    </section>
+
+    <section>
+        <h2>Awards and Fellowships</h2>
+        <p>Ryan has received fellowships from Lambda Literary Foundation, New York Foundation for the Arts, Yaddo, MacDowell, The Minnesota State Arts Board, and the Virginia Center for the Creative Arts.</p>
+    </section>
+
+    <section>
+        <h2>Publications</h2>
+        <p>His work has appeared in Ploughshares, The Sun Magazine, The Rumpus, Slate, Salon, and The Advocate Magazine.</p>
+    </section>
+
+    <section>
+        <h2>Teaching Experience</h2>
+        <p>Ryan has taught creative writing with The Loft Literary Center, The Shipman Agency, and the Minnesota Prison Writing Workshop.</p>
+    </section>
+
+    <section>
+        <h2>Contact Information</h2>
+        <p>For inquiries, you can reach Ryan Berg via email at <a href="mailto:ryanjberg718@gmail.com">ryanjberg718@gmail.com</a>. Connect with him on social media for updates.</p>
+    </section>
+</body>
+</html>
